@@ -75,6 +75,17 @@ img{
 .WORKING_PROJEC h2{
     padding-top: 48px;
 }
+i{
+    height: 15px;
+    width: 15px;
+    margin-right: 5px;
+    color: white;
+    display: inline-block;
+}
+i img{
+    width: 100%;
+    
+}
 h2{
     font-size: 48px;
     line-height: 48px;
