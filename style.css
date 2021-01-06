@@ -47,6 +47,10 @@ img{
     color: white;
     display: inline-block;
 }
+.about{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 .WORKING_PROJECT{
     text-align: center;
     background-color: #f8f9fc;
